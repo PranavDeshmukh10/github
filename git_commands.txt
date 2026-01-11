@@ -4,3 +4,7 @@ git add <filename> - to add the file from Untracked to Staged
 git commit -m "Message can be anything" - to add the file in repo/ to add the file from Staged to Tracked.
 git rm --cached <filename> - to Unstaged the file.
 git restore <filename> - to restore the deleted file from VCS (Version Control System)
+git remote add origin <URL> - To add the github URl to push the code fromlocal to github
+git remote -v - To see if remote url/repo is added or not
+git push origin master - Will create a new branch named master and push all the files or code into github repository
+git cloe <URL> - To clone the github repo from github to your local.
