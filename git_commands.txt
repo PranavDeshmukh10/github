@@ -1,0 +1,6 @@
+git init - initialise the empty git repository
+git status - to check the status of current repository
+git add <filename> - to add the file from Untracked to Staged
+git commit -m "Message can be anything" - to add the file in repo/ to add the file from Staged to Tracked.
+git rm --cached <filename> - to Unstaged the file.
+git restore <filename> - to restore the deleted file from VCS (Version Control System)
