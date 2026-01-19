@@ -19,6 +19,18 @@ This repo is helpful for:
 
 ---
 
+## 📁 Repo Structure
+```bash
+github/
+├── README.md
+├── git-commands.md
+├── github-workflows.md
+├── github-actions.md
+└── interview-questions.md
+```
+
+---
+
 ## 🧠 What is Git?
 Git is a **distributed version control system** used to track changes in source code and collaborate with multiple developers efficiently.
 
@@ -38,8 +50,16 @@ GitHub is a **cloud-based platform** that hosts Git repositories and provides co
 ```bash
 sudo apt install git
 git --version
+```
 
+---
 
+# 👤 Author
+
+Name: Pranav Deshmukh
+GitHub: https://github.com/PranavDeshmukh10
+
+Happy Learning 🎉
 
 
 
