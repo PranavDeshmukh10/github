@@ -11,6 +11,14 @@ This repo is helpful for:
 
 ---
 
+# 🎯 Learning Goals
+
+- Master Git & GitHub commands
+- Understand GitHub workflows
+- Prepare for DevOps & CI/CD tools like Jenkins and OpenShift
+
+---
+
 ## 🧠 What is Git?
 Git is a **distributed version control system** used to track changes in source code and collaborate with multiple developers efficiently.
 
