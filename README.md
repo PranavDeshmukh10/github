@@ -8,3 +8,6 @@ This repo is helpful for:
 - Beginners learning GitHub
 - DevOps & CI/CD learners
 - Quick command reference
+
+## 🧠 What is Git?
+Git is a **distributed version control system** used to track changes in source code and collaborate with multiple developers efficiently.
