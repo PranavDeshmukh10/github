@@ -11,3 +11,5 @@ This repo is helpful for:
 
 ## 🧠 What is Git?
 Git is a **distributed version control system** used to track changes in source code and collaborate with multiple developers efficiently.
+
+---
