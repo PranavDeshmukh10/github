@@ -55,8 +55,7 @@ git --version
 ---
 
 # 👤 Author
-
-Name: Pranav Deshmukh
+Name: Pranav Deshmukh  
 GitHub: https://github.com/PranavDeshmukh10
 
 Happy Learning 🎉
