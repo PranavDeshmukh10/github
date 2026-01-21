@@ -7,5 +7,5 @@ git restore <filename> - to restore the deleted file from VCS (Version Control S
 git remote add origin <URL> - To add the github URl to push the code fromlocal to github
 git remote -v - To see if remote url/repo is added or not
 git push origin master - Will create a new branch named master and push all the files or code into github repository
-git cloe <URL> - To clone the github repo from github to your local.
+git clone <URL> - To clone the github repo from github to your local.
 git pull origin master - to pull any changes from github to your local file.
